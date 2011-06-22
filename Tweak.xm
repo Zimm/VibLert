@@ -1,3 +1,4 @@
+#import <AudioToolbox/AudioToolbox.h>
 %hook UIAlertView
 
 - (void)show
