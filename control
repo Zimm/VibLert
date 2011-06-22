@@ -1,0 +1,10 @@
+Package: com.thezimm.viblert
+Conflicts:com.thezimm.smsstamp
+Depends: mobilesubstrate
+Name: VibLert
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Vibrate when you get a uialertview
+Author: Dan Zimmerman <daniel.zimmerman@me.com>
+Section: Tweaks
+dev: thezimm
